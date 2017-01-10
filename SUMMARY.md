@@ -7,6 +7,3 @@
     + [json](syntax/json.md)
     + [wxml](syntax/wxml.md)
     + [wxss](syntax/wxss.md)
-    
-
-Copyright @2017 jiek 

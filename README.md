@@ -22,5 +22,3 @@ https://mp.weixin.qq.com/debug/wxadoc/introduction/
 
 调试模式预览图
 ![](/assets/Screen Shot 2017-01-10 at 10.14.46.png)
-
-Copyright @2017 jiek 
