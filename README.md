@@ -4,15 +4,18 @@ https://mp.weixin.qq.com/debug/wxadoc/introduction/
 
 本文关于小程序的所有练习进程
 
-开发工具: https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html
+## 开发工具: 
+> 正式版：https://servicewechat.com/wxa-dev-logic/download_redirect?type=beta_darwin&from=mpwiki
 
-以下为两个官方下载资源
+> 测试版：https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html
+
+## 官方示例下载资源
 
 1. [quickStart](https://mp.weixin.qq.com/debug/wxadoc/dev/demo/quickstart.zip)
 + [widgetDemo](https://mp.weixin.qq.com/debug/wxadoc/dev/demo/demo.zip)
 
+## 其它
 [editor shortcuts - 微信web开发者工具快捷键](editorshortcuts.md)
-
 
 需要先申请公众号之小程序的账户，它不可与公众号同号使用，完全独立的一个账户。根据官方文档进行申请。
 
