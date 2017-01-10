@@ -4,9 +4,10 @@ https://mp.weixin.qq.com/debug/wxadoc/introduction/
 
 本文关于小程序的所有练习进程
 
-[quickStart](https://mp.weixin.qq.com/debug/wxadoc/dev/demo/quickstart.zip)
+以下为两个官方下载资源
 
-[widgetDemo](https://mp.weixin.qq.com/debug/wxadoc/dev/demo/demo.zip)
+1. [quickStart](https://mp.weixin.qq.com/debug/wxadoc/dev/demo/quickstart.zip)
++ [widgetDemo](https://mp.weixin.qq.com/debug/wxadoc/dev/demo/demo.zip)
 
 需要先申请公众号之小程序的账户，它不可与公众号同号使用，完全独立的一个账户。根据官方文档进行申请。
 
