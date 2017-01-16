@@ -7,3 +7,4 @@
     + [json](syntax/json.md)
     + [wxml](syntax/wxml.md)
     + [wxss](syntax/wxss.md)
+* [create page](createPage.md)
