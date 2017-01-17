@@ -1,5 +1,11 @@
 # syntax of miniProgram js
 
+## 逻辑层(App Service)
+
+小程序开发框架的逻辑层是由JavaScript编写。
+
+小程序的js语法遵循：
+
 ```
 用于跨文件调用函数
 引用： var show = require('../../utils/show.js')
@@ -42,4 +48,3 @@ module.exports = { //此文件对外开放函数申明外
     oauth: oauth,
 }
 ```
-
