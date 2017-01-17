@@ -2,9 +2,12 @@
 
 https://mp.weixin.qq.com/debug/wxadoc/introduction/
 
+**tips: 一般微信用户都可以进行小程序的开发与调试。
+  -->  区别：企业开发者能进行真机调试; 普通用户只能用模拟器调试预览！！**
+
 本文关于小程序的所有练习进程
 
-## 开发工具: 
+## 开发工具: 推荐使用正式版
 > 正式版：https://servicewechat.com/wxa-dev-logic/download_redirect?type=beta_darwin&from=mpwiki
 
 > 测试版：https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html

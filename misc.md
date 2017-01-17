@@ -11,6 +11,7 @@ Miscellaneous knowledge of miniProgram!
      |- index.wxml   # 页面 weixin markup language
      |- index.wxss   # 页用样式 weixin style sheets
 - utils       # 通用js配置
+  |- utils.js     # 实用函数文件
 - app.js      # 启动任务与全局数据设置
 - app.json    # 项目结构配置与基本样式配置
 - app.wxss    # 类 css样式文件 weixin style sheets

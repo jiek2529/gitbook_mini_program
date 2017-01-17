@@ -1,6 +1,10 @@
 # editor shortcuts 微信web开发者工具-常用快捷键
 
 reference: https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/edit.html
+
+**tips:一般mac下的【Command.⌘】 对应window下的【Ctrl】**
+
+以下快捷键的功能是拷贝自官方文档，考证为window下的快捷键列表。
 ## 1. 格式调整
 
 |快捷键 -- 描述|
