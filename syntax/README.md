@@ -23,3 +23,15 @@
 #### 页面跳转
 （wx.navigateTo）或者页面重定向（wx.redirectTo）
 及使用标签 navigator实现跳转
+
+**主要页面传参方式为： test?id=1&...;   也可以考虑使用全局参数，但不推荐。**
+
+```
+获取参数方法： 
+//test.js
+Page({
+  onLoad: function(option){
+    console.log(option.id) //即能获取页面传来的参数
+  }
+})
+```
