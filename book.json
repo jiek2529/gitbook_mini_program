@@ -1,0 +1,18 @@
+{
+"language": "zh-hans",
+"plugins": [
+    "splitter",
+    "anchors", 
+    "anchor-navigation-ex", 
+    "expandable-chapters", 
+    "-lunr",
+    "-search",
+    "search-plus",
+    "facebook"
+],
+"pluginsConfig": {
+    "facebook": {
+        "appKey": "206811166450251"
+    }
+}
+}
