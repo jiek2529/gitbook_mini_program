@@ -1,10 +1,10 @@
 # mini program微信小程序
 
-&lt;https://www.gitbook.com/@jiek&gt;
+<https://www.gitbook.com/@jiek>
 
-\[contact me\]\(mailto:gaopinjie@gmail.com\)
+[contact me](mailto:gaopinjie@gmail.com)
 
-[https://mp.weixin.qq.com/debug/wxadoc/introduction/](https://mp.weixin.qq.com/debug/wxadoc/introduction/)
+<https://mp.weixin.qq.com/debug/wxadoc/introduction/>
 
 **tips: 一般微信用户都可以进行小程序的开发与调试。  
   --&gt;  区别：企业开发者能进行真机调试; 普通用户只能用模拟器调试预览！！**
